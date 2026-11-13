@@ -62,16 +62,6 @@ Alongside that foundation, I build hands-on **applied AI** projects (multi-agent
   <img src="https://img.shields.io/badge/Networking-TCP/IP_%7C_VLAN_%7C_STP-0f2027?style=for-the-badge" alt="Networking" />
 </p>
 
-### 🤖 Applied AI & Agents
-
-<p>
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/RAG_%26_LLM-203a43?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
-</p>
-
 ### 🎨 Web & Tools
 
 <p>
@@ -97,7 +87,7 @@ Full-featured desktop application managing **inventory, prescriptions, billing, 
 
 **Stack:** `Java` `OOP` `MySQL` `UML` `DAO pattern`
 
-🔗 [View repository](https://github.com/zouinealifst-create/REPO-NAME-PHARMACY)
+🔗 [View repository](https://github.com/zouinealifst-create/projet-java-pharmacie)
 
 ---
 
