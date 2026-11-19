@@ -20,11 +20,9 @@
 
 I'm a **2nd-year Computer Engineering student** at **FST Settat**, focused on **Java/JEE backend development**, **cloud infrastructure (AWS)** and **network architecture**. I care about building reliable, loosely coupled systems with clean architecture: UML modeling, layered design, DAO/MVC, REST APIs and relational databases.
 
-Alongside that foundation, I build hands-on **applied AI** projects (multi-agent systems, RAG pipelines, LLM integrations) to automate real workflows.
 
 - 🎓 **Education:** Engineering Degree in Computer Engineering, FST Settat (2025 – 2028)
 - 🌱 **Core focus:** Java ecosystem (JEE, Spring Boot, JPA/Hibernate), AWS cloud and networking
-- 🤖 **Side explorations:** AI agents (CrewAI) and RAG architectures
 - 💼 **Goal:** a **1 to 2-month Summer / PFA internship**
 
 ---
@@ -68,10 +66,6 @@ Alongside that foundation, I build hands-on **applied AI** projects (multi-agent
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
